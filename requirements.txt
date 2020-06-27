@@ -1,0 +1,6 @@
+opencv_python==4.1.1.26
+imutils==0.5.3
+Flask==0.10
+numpy==1.18.3
+pytesseract==0.3.4
+Pillow==7.1.2
